@@ -11,8 +11,13 @@ If you want to change the site's Jekyll template and/or add custom CSS, please r
 
 You may also find this [GitHub markdown cheatsheet](https://www.markdownguide.org/cheat-sheet) handy.
 
-### 4/20/2023
+### 04/20/2023
 [G1: User Research Report](/wip/G1.html)
-
-### 5/02/2023
+### 04/18/2023
+[G2: Pitch Presentation](/wip/G2.html)
+### 05/02/2023
 [G3: Low Fidelity Prototype](/wip/G3.html)
+### 05/04/2023
+[G4: Code and Design Specification](/wip/G4.html)
+### 05/09/2023
+[G5: Midterm Presentation](/wip/G5.html)
