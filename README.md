@@ -1,9 +1,8 @@
 # wip
-Welcome to your CSE 481p repo! 
 
-First, if you have an updated group name, please feel free to change the name of this repo and your group’s Google Drive folder.
-
-This repo will serve as a place to both collaborate on code with your group members as well as create your blog sites for your projects. It contains a `_config.yml` file that automatically turns your `README.md` files into webpages hosted on GitHub pages. 
+***WIP Bot*** is a Discord bot that aims to improve the process of finding study partners and study environments, in order to ***make studying a more sociable and enjoyable experience*** for college students. Students can use WIP Bot to:
+- Assign themselves roles that let their classmates know that they are interested in studying at a particular location.
+- View information about the noise and busy-ness levels of study locations.
 
 Please refer to the README in [this repo](https://github.com/nicolas-van/easy-markdown-to-github-pages) for more on the markdown to webpage generation process. Most of the steps have already been done for you, so the most relevant content will likely be in the User Guide and the sections following that. 
 
