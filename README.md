@@ -3,9 +3,20 @@
   <center><img src="/images/WIP Bot Logo.png" alt="WIP Bot Logo" width="175" height="175"></center>
 </p>
 
+<br>
+
 **WIP Bot** is a Discord bot that aims to improve the process of finding study partners and study environments, in order to **make studying a more sociable and enjoyable experience** for college students. Students can use WIP Bot to:
 - Assign themselves roles that let their classmates know that they are interested in studying at a particular location.
 - View information about the noise and busy-ness levels of study locations.
+
+Visit our [GitHub repository](https://github.com/UWSocialComputing/wip-code) to view the code for this project.
+
+## Team
+<p>
+  
+</p>
+
+## Blog Posts
 
 ### 04/20/2023
 [G1: User Research Report](/wip/G1.html)
