@@ -1,6 +1,7 @@
 # wip
-
-<center><img src="/wip/images/WIP Bot Logo.png" alt="WIP Bot Logo" width="175" height="175"></center>
+<p>
+  <center><img src="/images/WIP Bot Logo.png" alt="WIP Bot Logo" width="175" height="175"></center>
+</p>
 
 **WIP Bot** is a Discord bot that aims to improve the process of finding study partners and study environments, in order to **make studying a more sociable and enjoyable experience** for college students. Students can use WIP Bot to:
 - Assign themselves roles that let their classmates know that they are interested in studying at a particular location.
