@@ -1,9 +1,7 @@
 # wip
 <p>
-  <center><img src="/images/WIP Bot Logo.png" alt="WIP Bot Logo" width="175" height="175"></center>
+  <center><img src="/images/WIP Bot Logo.png" alt="WIP Bot Logo" width="175" height="175"/></center>
 </p>
-
-<br>
 
 **WIP Bot** is a Discord bot that aims to improve the process of finding study partners and study environments, in order to **make studying a more sociable and enjoyable experience** for college students. Students can use WIP Bot to:
 - Assign themselves roles that let their classmates know that they are interested in studying at a particular location.
@@ -13,7 +11,20 @@ Visit our [GitHub repository](https://github.com/UWSocialComputing/wip-code) to 
 
 ## Team
 <p>
+  <figure>
+    <img src="/images/wanda.png" alt="Wanda" width="150" height="150"/>
+    <figcaption>Wanda Kuang</figcaption>
+  </figure>
   
+  <figure>
+    <img src="/images/ivy.png" alt="Ivy" width="150" height="150"/>
+    <figcaption><a href="linkedin.com/in/ivy-zhou">Ivy Zhou</a></figcaption>
+  </figure>
+  
+  <figure>
+    <img src="/images/patrick.png" alt="Patrick" width="150" height="150"/>
+    <figcaption>Patrick Ho</figcaption>
+  </figure>
 </p>
 
 ## Blog Posts
