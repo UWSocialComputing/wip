@@ -11,9 +11,9 @@ Visit our [GitHub repository](https://github.com/UWSocialComputing/wip-code) to 
 
 ## Demo
 
-https://www.youtube.com/watch?v=KlgfcbNYjtU
-Watch a demo of our project here:
-[https://www.youtube.com/embed/tgbNymZ7vqY](https://www.youtube.com/watch?v=KlgfcbNYjtU)
+<iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=KlgfcbNYjtU">
+</iframe>
 
 ## Team
 <p>
