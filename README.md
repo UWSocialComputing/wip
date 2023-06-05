@@ -16,17 +16,17 @@ Visit our [GitHub repository](https://github.com/UWSocialComputing/wip-code) to 
 ## Team
 <p>
   <figure>
-    <img src="/images/wanda.png" alt="Wanda" width="150" height="150"/>
+    <img src="/images/wanda.png" alt="Wanda" width="200" height="200"/>
     <figcaption>Wanda Kuang</figcaption>
   </figure>
   
   <figure>
-    <img src="images/ivy.png" alt="Ivy" width="150" height="150"/>
-    <figcaption><a href="linkedin.com/in/ivy-zhou">Ivy Zhou</a></figcaption>
+    <img src="images/ivy.png" alt="Ivy" width="200" height="200"/>
+    <figcaption><a href="https://www.linkedin.com/in/ivy-zhou/">Ivy Zhou</a></figcaption>
   </figure>
   
   <figure>
-    <img src="/images/patrick.png" alt="Patrick" width="150" height="150"/>
+    <img src="images/patrick.png" alt="Patrick" width="200" height="200"/>
     <figcaption>Patrick Ho</figcaption>
   </figure>
 </p>
