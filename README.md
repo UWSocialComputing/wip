@@ -1,4 +1,3 @@
-# wip
 <p>
   <center><img src="images/WIP Bot Logo.png" alt="WIP Bot Logo" width="175" height="175"/></center>
 </p>
