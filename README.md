@@ -9,6 +9,12 @@
 
 Visit our [GitHub repository](https://github.com/UWSocialComputing/wip-code) to view the code for this project.
 
+## Demo
+
+https://www.youtube.com/watch?v=KlgfcbNYjtU
+Watch a demo of our project here:
+[https://www.youtube.com/embed/tgbNymZ7vqY](https://www.youtube.com/watch?v=KlgfcbNYjtU)
+
 ## Team
 <p>
   <figure>
