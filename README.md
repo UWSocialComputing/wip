@@ -15,7 +15,7 @@ Visit our [GitHub repository](https://github.com/UWSocialComputing/wip-code) to 
 ## Team
 <p>
   <figure>
-    <img src="/images/wanda.png" alt="Wanda" width="200" height="200"/>
+    <img src="images/wanda.png" alt="Wanda" width="200" height="200"/>
     <figcaption>Wanda Kuang</figcaption>
   </figure>
   
