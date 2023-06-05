@@ -26,8 +26,8 @@ Visit our [GitHub repository](https://github.com/UWSocialComputing/wip-code) to 
   </figure>
   
   <figure>
-    <img src="images/patrick.png" alt="Patrick" width="200" height="200"/>
-    <figcaption>Patrick Ho</figcaption>
+    <img src="images/patrick.jpeg" alt="Patrick" width="200" height="200"/>
+    <figcaption><a href="https://www.linkedin.com/in/pyho/">Patrick Ho</a></figcaption>
   </figure>
 </p>
 
@@ -43,10 +43,9 @@ Visit our [GitHub repository](https://github.com/UWSocialComputing/wip-code) to 
 [G4: Code and Design Specification](/wip/G4.html)
 ### 05/09/2023
 [G5: Midterm Presentation](/wip/G5.html)
-
-
-Please refer to the README in [this repo](https://github.com/nicolas-van/easy-markdown-to-github-pages) for more on the markdown to webpage generation process. Most of the steps have already been done for you, so the most relevant content will likely be in the User Guide and the sections following that. 
-
-If you want to change the site's Jekyll template and/or add custom CSS, please refer to [this guide](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll).
-
-You may also find this [GitHub markdown cheatsheet](https://www.markdownguide.org/cheat-sheet) handy.
+### 05/18/2023
+[G6: User Testing](/wip/G6.html)
+### 05/25/2023
+[G7: Digital Prototype](/wip/G7.html)
+### 05/30/2023
+[G8: Video Demo](/wip/G8.html)
