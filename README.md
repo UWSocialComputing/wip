@@ -3,14 +3,29 @@
 </p>
 
 **WIP Bot** is a Discord bot that aims to improve the process of finding study partners and study environments, in order to **make studying a more sociable and enjoyable experience** for college students. Students can use WIP Bot to:
-- Assign themselves roles that let their classmates know that they are interested in studying at a particular location.
-- View information about the noise and busy-ness levels of study locations.
+
+<p>
+  <div style="display: flex; flex-wrap: nowrap;">
+    <figure style="text-align: center; margin: 20px;">
+      <img src="images/homepageimage1.png" alt="Figure 1" height="400"/>
+      <img src="images/homepageimage2.png" alt="Figure 2" height="400"/>
+      <figcaption>Assign themselves roles that let their classmates know that they are interested in studying at a particular location.</figcaption>
+    </figure>
+
+    <figure style="text-align: center; margin: 20px;">
+      <img src="images/homepageimage3.png" alt="Figure 3" height="400"/>
+      <figcaption>View and update information about the noise and busy-ness levels of study locations.</figcaption>
+    </figure>
+  </div>
+</p>
 
 Visit our [GitHub repository](https://github.com/UWSocialComputing/wip-code) to view the code for this project.
 
 ## Demo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KlgfcbNYjtU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/KlgfcbNYjtU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+
+<br>
 
 ## Team
 <p>
