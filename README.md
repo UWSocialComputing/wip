@@ -2,12 +2,14 @@
   <center><img src="images/WIP Bot Logo.png" alt="WIP Bot Logo" width="175" height="175"/></center>
 </p>
 
-**WIP Bot** is a Discord bot that aims to improve the process of finding study partners and study environments, in order to **make studying a more sociable and enjoyable experience** for college students. Students can use WIP Bot to:
+**WIP Bot** is a Discord bot that aims to improve the process of finding study partners and study environments, in order to **make studying a more sociable and enjoyable experience** for college students. 
+
+Students can use WIP Bot to:
 
 <p>
   <div style="display: flex; flex-wrap: nowrap;">
     <figure style="align-items: center; margin: 10px;">
-      <figcaption>•Assign themselves roles that let their classmates know that they are interested in studying at a particular location.</figcaption>
+      <figcaption>• Assign themselves roles that let their classmates know that they are interested in studying at a particular location.</figcaption>
       <div style="display: flex; flex-wrap: nowrap;">
         <img src="images/homepageimage1.png" alt="Figure 1" height="350"/>
         <img src="images/homepageimage2.png" alt="Figure 2" height="350"/>
@@ -15,7 +17,7 @@
     </figure>
 
     <figure style="align-items: center; margin: 10px;">
-      <figcaption>•View and update information about the noise and busy-ness levels of study locations.</figcaption>
+      <figcaption>• View and update information about the noise and busy-ness levels of study locations.</figcaption>
       <img src="images/homepageimage3.png" alt="Figure 3" height="350"/>
     </figure>
   </div>
