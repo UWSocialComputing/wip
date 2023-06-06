@@ -6,16 +6,16 @@
 
 <p>
   <div style="display: flex; flex-wrap: nowrap;">
-    <figure style="text-align: center; margin: 10px;">
-      <figcaption>Assign themselves roles that let their classmates know that they are interested in studying at a particular location.</figcaption>
+    <figure style="align-items: center; margin: 10px;">
+      <figcaption>•Assign themselves roles that let their classmates know that they are interested in studying at a particular location.</figcaption>
       <div style="display: flex; flex-wrap: nowrap;">
         <img src="images/homepageimage1.png" alt="Figure 1" height="350"/>
         <img src="images/homepageimage2.png" alt="Figure 2" height="350"/>
       </div>
     </figure>
 
-    <figure style="text-align: center; margin: 10px;">
-      <figcaption>View and update information about the noise and busy-ness levels of study locations.</figcaption>
+    <figure style="align-items: center; margin: 10px;">
+      <figcaption>•View and update information about the noise and busy-ness levels of study locations.</figcaption>
       <img src="images/homepageimage3.png" alt="Figure 3" height="350"/>
     </figure>
   </div>
