@@ -14,20 +14,22 @@ Visit our [GitHub repository](https://github.com/UWSocialComputing/wip-code) to 
 
 ## Team
 <p>
-  <figure>
-    <img src="images/wanda.png" alt="Wanda" width="200" height="200"/>
-    <figcaption>Wanda Kuang</figcaption>
-  </figure>
-  
-  <figure>
-    <img src="images/ivy.png" alt="Ivy" width="200" height="200"/>
-    <figcaption><a href="https://www.linkedin.com/in/ivy-zhou/">Ivy Zhou</a></figcaption>
-  </figure>
-  
-  <figure>
-    <img src="images/patrick.jpeg" alt="Patrick" width="200" height="200"/>
-    <figcaption><a href="https://www.linkedin.com/in/pyho/">Patrick Ho</a></figcaption>
-  </figure>
+  <div style="display: flex; flex-wrap: nowrap;">
+    <figure style="text-align: center; margin: 20px;">
+      <img src="images/wanda.png" alt="Wanda" width="200" height="200"/>
+      <figcaption>Wanda Kuang</figcaption>
+    </figure>
+
+    <figure style="text-align: center; margin: 20px;">
+      <img src="images/ivy.png" alt="Ivy" width="200" height="200"/>
+      <figcaption><a href="https://www.linkedin.com/in/ivy-zhou/">Ivy Zhou</a></figcaption>
+    </figure>
+
+    <figure style="text-align: center; margin: 20px;">
+      <img src="images/patrick.jpeg" alt="Patrick" width="200" height="200"/>
+      <figcaption><a href="https://www.linkedin.com/in/pyho/">Patrick Ho</a></figcaption>
+    </figure>
+  </div>
 </p>
 
 ## Blog Posts
