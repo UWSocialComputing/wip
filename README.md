@@ -35,8 +35,8 @@ Visit our [GitHub repository](https://github.com/UWSocialComputing/wip-code) to 
 <p>
   <div style="display: flex; flex-wrap: nowrap;">
     <figure style="text-align: center; margin: 20px;">
-      <img src="images/wanda.png" alt="Wanda" width="200" height="200"/>
-      <figcaption>Wanda Kuang</figcaption>
+      <img src="images/wanda.jpeg" alt="Wanda" width="200" height="200"/>
+      <figcaption><a href="https://www.linkedin.com/in/wandakuang">Wanda Kuang</figcaption>
     </figure>
 
     <figure style="text-align: center; margin: 20px;">
